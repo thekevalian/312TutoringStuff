@@ -13,3 +13,6 @@ You will now have two executable files:
 <b>cons_ex</b> will let you see when the constructor, copy constructor, copy assignment operator and destructor are called. You are free to modify the code starting at line 6 to understand what's going on.
 
 <b>tictactoe</b> is just a simple tictactoe program
+
+To run <b>tictactoe</b> use the following command: <b>./tictactoe</b>\
+To run <b>cons_ex</b> use the following command: <b>./cons_ex</b>
